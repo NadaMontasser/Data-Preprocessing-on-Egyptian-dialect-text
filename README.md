@@ -1,6 +1,6 @@
 # Data-Preprocessing-on-Egyptian-dialect-text
 
-![Screenshot 2023-01-10 090315](https://user-images.githubusercontent.com/45748269/211691934-a9ea3696-4d7e-4d79-85da-b68b4f5febb4.png)
+![image](https://user-images.githubusercontent.com/45748269/211694457-ebdf3b62-a43f-425a-944a-2fe9a90e3ee6.png)
 
 1. **Data  Cleaning**: 
  The cleaning function removes all noises to delivers smooth Arabic text without impacting its meaning or content, such as:
