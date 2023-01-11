@@ -22,9 +22,7 @@ we will go over the steps of Data Pre-Processing:
 
 ![image](https://user-images.githubusercontent.com/45748269/211694163-27649e77-b090-4b86-b2d6-2d1c73047ee6.png)
 
-
 ****
-
 
 
 
