@@ -27,6 +27,8 @@ The used packages and libraries:
 
   1. Regular expression https://docs.python.org/3/library/re.html
   2. Python ar-Corrector https://pypi.org/project/ar-corrector/
+  3. Arabic word cloud https://amueller.github.io/word_cloud/auto_examples/arabic.html
+
 
 
 
